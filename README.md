@@ -20,5 +20,3 @@ The app record position and draw on the map in real time so user can have a intu
 * Upper part display current motion data  
 * Icon change simultaneously with status change  
 * Reset button clears accumulated data  
-* test
-
