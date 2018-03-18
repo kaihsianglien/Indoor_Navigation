@@ -14,4 +14,6 @@
 * Status switch between static and dynamic  
 * Upper part display current motion data  
 * Icon change simultaneously with status change  
-* Reset button clears accumulated data
+* Reset button clears accumulated data  
+* test
+
