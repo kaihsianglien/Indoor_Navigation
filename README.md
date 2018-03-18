@@ -1,7 +1,5 @@
 # Indoor_Navigation  
-This app is designed to provide navigation when GPS signal is not available
-The main function is to display location, moving path, and direction using built-in accelerometer and gyroscope
-The app record position and draw on the map in real time so user can have a intuitive understanding.
+This app is designed to provide navigation when GPS signal is not available. The main function is to display location, moving path, and direction using built-in accelerometer and gyroscope. The app record position and draw on the map in real time so user can have a intuitive understanding.
 
 ## Map View  
 <img src="https://github.com/KaiHsiangLien/Indoor_Navigation/blob/master/IMG_2843.jpg" width="25%" height="25%">  
