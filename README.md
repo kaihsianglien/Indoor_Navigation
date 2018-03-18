@@ -1,6 +1,6 @@
 # Indoor_Navigation
 
-##Map View  
+## Map View  
 <img src="https://github.com/KaiHsiangLien/Indoor_Navigation/blob/master/IMG_2843.jpg" width="25%" height="25%">  
 *Black dot indicate current location  
 *Arrow indicate current direction(disabled)  
@@ -9,7 +9,7 @@
 *Swipe to move map coordinate  
 *Pinch to enlarge moving path  
 
-##Information View  
+## Information View  
 <img src="https://github.com/KaiHsiangLien/Indoor_Navigation/blob/master/IMG_2868.jpg" width="25%" height="25%">  
 *Status switch between static and dynamic  
 *Upper part display current motion data  
